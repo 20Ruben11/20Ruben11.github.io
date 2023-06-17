@@ -1,0 +1,120 @@
+ *{
+    margin: 0;
+    padding: 0;
+} 
+h1{
+    text-align: center;
+    font-size: 48px;
+    color:wheat;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.bbbody{
+    background-image: url("bc.jpg");
+    background-size: cover;
+
+}
+.sport-t{
+    width:100%;
+    text-align:center;
+}
+.sport-t div{
+    font-size: 24px;
+}
+.sport-t img{
+    height: 200px;
+    width: 300px;
+    transition:0.5s ;
+}
+.divi{
+    color: rgb(255, 208, 0);
+    padding-top: 20px;
+}
+.sport-t a{
+    text-decoration: none;
+}
+.sport-t img:hover {
+    transform: scale(1.2);
+
+}
+.div{
+    color: rgb(255, 0, 0);
+}
+header{
+    text-align: center;
+    background-color:black ;
+    margin-bottom: 15px;
+} 
+header a{
+    text-decoration: none;
+}
+header a span{
+    font-size: 50px;
+    padding: 30px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.hahaha img{
+    width: 250px;
+    height: 200px;
+    margin: 15px 50px 15px 50px ;
+}   
+.hahaha{
+    text-align: center;
+}
+footer{
+    background-color: aqua;
+    color: blueviolet;
+    padding: 20px 0px; 
+}
+footer a{
+    text-decoration: none;
+    font-size: 25px;
+    color: blueviolet;
+}
+.nnn{
+    width: 100%;
+    text-align: center;
+}
+footer div{
+    text-align: right;
+    border-top: 1px solid  darkgreen ;
+ padding-top: 15px;
+    margin: 20px 100px 0px 100px;
+}
+.ggg{
+    width: 900px;
+    margin: 50px auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.ggg tr td {
+    padding: 10px 0;
+}
+.hhh{
+    font-size: 24px;
+}
+.ggg tr{
+
+}
+.lll{
+background-color: white;
+color: black;
+}
+.d{
+padding-left: 24px;
+
+
+}
+.d li{
+    padding:10px ;
+}
+.d li a{
+    color: black;
+    text-decoration: none;
+}
+.divib{
+    color: blueviolet;
+}
